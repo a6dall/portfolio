@@ -17,5 +17,5 @@
 
 ## Контакты
 
-- Telegram: [@a6dall](https://t.me/nikita)
+- Telegram: [@a6dall](https://t.me/a6dall)
 - Email: a6dall@mail.ru
