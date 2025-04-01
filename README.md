@@ -1,3 +1,5 @@
+<img src="https://github.com/a6dall/portfolio/blob/main/" alt="Моё фото" width="250"/>
+
 # Портфолио a6dall
 
 Добро пожаловать в мое портфолио!
