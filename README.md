@@ -1,4 +1,4 @@
-<img src="https://github.com/a6dall/portfolio/blob/main/" alt="Моё фото" width="250"/>
+<img src="https://github.com/a6dall/portfolio/blob/main/95F5CC68-7170-486D-9A2F-17F9D8538592.png" alt="Моё фото" width="250"/>
 
 # Портфолио a6dall
 
